@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Nishant Dhiman
 
-<!--
-**NishantDhiman028/NishantDhiman028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer
 
-Here are some ideas to get you started:
+- 🌱 Learning Kubernetes, Terraform & AWS
+- 🐳 Docker Enthusiast
+- ☁️ Cloud & Automation Passionate
+- 🐧 Linux Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Git & GitHub
+- Linux
+- Ansible
+- java
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/NishantDhiman028
+
+## ⚡ Quote
+
+"Automating today for a better tomorrow."
