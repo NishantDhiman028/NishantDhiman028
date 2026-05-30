@@ -26,3 +26,13 @@
 ## ⚡ Quote
 
 "Automating today for a better tomorrow."
+
+
+
+## 🚀 Skills
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
