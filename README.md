@@ -36,3 +36,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+
+
+
+## 📊 GitHub Stats
+
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight)
