@@ -47,13 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight)
-
-
-
-## 📊 GitHub Stats
-
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
