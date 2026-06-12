@@ -1,5 +1,25 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nishant%20Dhiman&fontSize=55&fontColor=ffffff&color=0:36BCF7,50:8A2BE2,100:FF6B6B&animation=fadeIn&fontAlignY=40"/>
+
+### 🚀 DevOps Engineer | AWS Cloud Enthusiast | Kubernetes Explorer
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;🐳+Docker+%7C+Kubernetes+Expert;⚡+Automation+%26+CI%2FCD+Lover;💻+Java+Developer" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750314-5efc3f4d-6fcb-4e58-bf52-1b7b5a65b4d1.gif" width="500">
+
+</div>
+
+---
+
+
+
+<div align="center">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <span style="color:#36BCF7">Nishant</span> <span style="color:#FF6B6B">Dhiman</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;🐳+Docker+%7C+Kubernetes+Expert;⚡+Automation+%26+CI%2FCD+Lover;💻+Java+Developer" />
