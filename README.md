@@ -1,58 +1,105 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Java+Developer;Docker+%7C+Kubernetes+%7C+Terraform" />
-</p>
+<div align="center">
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <span style="color:#36BCF7">Nishant</span> <span style="color:#FF6B6B">Dhiman</span>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;🐳+Docker+%7C+Kubernetes+Expert;⚡+Automation+%26+CI%2FCD+Lover;💻+Java+Developer" />
 
-# Hi 👋, I'm Nishant Dhiman
+<img src="https://user-images.githubusercontent.com/74038190/212750314-5efc3f4d-6fcb-4e58-bf52-1b7b5a65b4d1.gif" width="500">
 
-## 🚀 DevOps Engineer
+</div>
 
-- 🌱 Learning Kubernetes, Terraform & AWS
-- 🐳 Docker Enthusiast
-- ☁️ Cloud & Automation Passionate
-- 🐧 Linux Lover
+---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Git & GitHub
-- Linux
-- Ansible
-- java
+<img align="right" alt="DevOps" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-## 📫 Connect With Me
+🚀 Passionate DevOps Engineer focused on automation and cloud technologies.
 
-- GitHub: https://github.com/NishantDhiman028
+☁️ Exploring AWS, Kubernetes, Terraform & Cloud Native Ecosystem.
 
-## ⚡ Quote
+🐳 Building scalable containerized applications with Docker & Kubernetes.
 
-"Automating today for a better tomorrow."
+⚡ Enthusiastic about CI/CD, Infrastructure as Code & Linux Administration.
 
+💡 Believer in:
 
+> **"Automating today for a better tomorrow."**
 
-## 🚀 Skills
+---
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+## 🛠️ Tech Arsenal
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,github,java,bash,vscode" />
 
-## 📊 GitHub Stats
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight&hide_border=true)
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NishantDhiman028&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDhiman028&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NishantDhiman028&theme=tokyonight)
+<div align="center">
 
-## 👀 Profile Views
+<img src="https://streak-stats.demolab.com?user=NishantDhiman028&theme=tokyonight&hide_border=true"/>
 
-![](https://komarev.com/ghpvc/?username=NishantDhiman028&color=blueviolet&style=for-the-badge)
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NishantDhiman028&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantDhiman028&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/NishantDhiman028">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=NishantDhiman028&style=for-the-badge&color=blueviolet"/>
+
+### 💖 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+
+</div>
