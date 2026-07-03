@@ -24,6 +24,7 @@
 - Linux
 - Ansible
 - java
+- Python
 
 ## 📫 Connect With Me
 
